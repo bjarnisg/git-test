@@ -32,7 +32,7 @@ echo "this is project https://github.com/bjarnisg/"$project
 echo "-----------------------------------------------------------------------------"
 git config --global pull.rebase false
 git config --global user.name "Bjarni Siggi"
-git config --global user.email "107966666+bjarnisg@users.noreply.github.com" #Use github private email if your main e-mail address has been chosen to be private from github public.
+git config --global user.email "<your.email.com>" #Use github private email if your main e-mail address has been chosen to be private from github public.
 sudo git config --system core.editor nano
 #git config --global color.ui auto # Enable colorful output with git.
 #git config --global credential.helper cache
